@@ -1,2 +1,2 @@
-# prodotto-app-git
+# products-API
 A simple application for try node API
